@@ -1,0 +1,15 @@
+{
+    "current_node": "end_village",
+    "visited": [
+        "explore",
+        "run_away",
+        "explore_village",
+        "end_village"
+    ],
+    "history": [
+        "start",
+        "explore",
+        "run_away",
+        "explore_village"
+    ]
+}
